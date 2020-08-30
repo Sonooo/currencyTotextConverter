@@ -8,7 +8,9 @@ git clone https://github.com/Sonooo/currencyTotextConverter
 
 # enter commands
 cd currencyTotextConverter
+
 javac currencyTotextConverter
+
 java currencyTotextConverter
 
 
